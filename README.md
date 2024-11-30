@@ -1,6 +1,4 @@
-### Hi, I'm Ellis Franklin !
-
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100px">
+### Hi, I'm Ellis Franklin 🧙 !
 
 <!-- badges: start -->
 ![Ellis's visitor count badge](https://visitor-badge.laobi.icu/badge?page_id=ellfran-7.ellfran-7) [![Ellis's GitHub follower count badge](https://img.shields.io/github/followers/ellfran-7?label=Follow&style=social)](https://github.com/ellfran-7)
