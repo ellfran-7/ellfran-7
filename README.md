@@ -6,12 +6,12 @@
 
 💻 I’m a PhD student specializing in the bioinformatics side of ecotoxicology.
 
-🧬 My research focuses on omics data analysis and biological interpretation.
+🧬 My research focuses on transcriptomics data analysis and biological interpretation in a dose-response framework.
 
 My thesis is split between two fantastic labs : 
 
 - [Laboratoire Interdisciplinaire des Environnements Continentaux (LIEC)](https://liec.univ-lorraine.fr/) in Metz 
-- [Laboratoire de Biométrie et Biologie Evolutive (LBBE)](https://lbbe-web.univ-lyon1.fr/fr) in Lyon.
+- [Laboratoire de Biométrie et Biologie Evolutive (LBBE)](https://lbbe-web.univ-lyon1.fr/fr) in Lyon
 
 
 Feel free to connect if you're curious about my work :
