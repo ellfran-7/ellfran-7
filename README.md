@@ -4,7 +4,7 @@
 ![Ellis's visitor count badge](https://visitor-badge.laobi.icu/badge?page_id=ellfran-7.ellfran-7) [![Ellis's GitHub follower count badge](https://img.shields.io/github/followers/ellfran-7?label=Follow&style=social)](https://github.com/ellfran-7) 
 <!-- badges: end -->
 
-💻 I’m a PhD student specializing in the bioinformatics side of ecotoxicology.
+💻 I’m a PhD student specialising in the bioinformatics side of ecotoxicology.
 
 🧬 My research focuses on transcriptomics data analysis and biological interpretation in a dose-response framework.
 
