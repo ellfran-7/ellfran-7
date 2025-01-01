@@ -1,7 +1,7 @@
 ### Hi, I'm Ellis Franklin 🧙 !
 
 <!-- badges: start -->
-![Ellis's visitor count badge](https://visitor-badge.laobi.icu/badge?page_id=ellfran-7.ellfran-7) [![Ellis's GitHub follower count badge](https://img.shields.io/github/followers/ellfran-7?label=Follow&style=social)](https://github.com/ellfran-7)
+![Ellis's visitor count badge](https://visitor-badge.laobi.icu/badge?page_id=ellfran-7.ellfran-7) [![Ellis's GitHub follower count badge](https://img.shields.io/github/followers/ellfran-7?label=Follow&style=social)](https://github.com/ellfran-7) 
 <!-- badges: end -->
 
 💻 I’m a PhD student specializing in the bioinformatics side of ecotoxicology.
@@ -16,16 +16,23 @@ My thesis is split between two fantastic labs :
 
 Feel free to connect if you're curious about my work :
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellis-franklin-6188831ba/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%23563ACC?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@elfrank) 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/elfrank7?style=for-the-badge&logo=X&logoColor=white)](https://x.com/elffran7)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellis-franklin-6188831ba/) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/elfrank7.bsky.social) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/elffran7) [![Mastodon](https://img.shields.io/badge/-MASTODON-%23563ACC?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@elfrank) 
 
 
 
 ### GitHub Stats
-  
-![Ellis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellfran-7&theme=vue-dark&show_icons=true) 
 
-![Ellis's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellfran-7&layout=compact&theme=vue-dark&hide=javascript,html,typescript)
+<!--
+[![Ellis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellfran-7&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Ellis's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellfran-7)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ellfran-7&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ellfran-7&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 
 <!---
 ellfran-7/ellfran-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
