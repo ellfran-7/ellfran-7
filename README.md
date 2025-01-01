@@ -22,15 +22,11 @@ Feel free to connect if you're curious about my work :
 
 ### GitHub Stats
 
-<!--
-[![Ellis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellfran-7&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Ellis's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellfran-7)](https://github.com/anuraghazra/github-readme-stats)
--->
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ellfran-7&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ellfran-7&theme=transparent&layout=compact&card_width=270" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ellfran-7&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ellfran-7&theme=transparent&layout=compact&langs_count=8&card_width=270" />
 </a>
 
 
