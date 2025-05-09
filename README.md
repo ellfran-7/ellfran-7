@@ -16,7 +16,7 @@ My thesis is split between two fantastic labs :
 
 Feel free to connect if you're curious about my work :
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellis-franklin-6188831ba/) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/elfrank7.bsky.social) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/elffran7) [![Mastodon](https://img.shields.io/badge/-MASTODON-%23563ACC?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@elfrank) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellis-franklin-6188831ba/) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/elfrank7.bsky.social) [![Mastodon](https://img.shields.io/badge/-MASTODON-%23563ACC?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@elfrank) 
 
 
 
